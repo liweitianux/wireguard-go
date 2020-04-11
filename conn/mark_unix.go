@@ -1,4 +1,4 @@
-// +build android openbsd freebsd
+// +build android openbsd freebsd dragonfly
 
 /* SPDX-License-Identifier: MIT
  *
